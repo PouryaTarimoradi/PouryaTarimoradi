@@ -1,9 +1,8 @@
-
 <h1 align="center">Hi, I'm Pourya Tarimoradi 👋</h1>
 
 <p align="center">
   <b>R&D / AI Engineer · On-premise LLM, RAG & Multi-Agent Systems</b><br/>
-  <i>Building privacy-first AI by day — going deep on agent memory in public.</i>
+  <i>Building privacy-first AI by day, going deep on agent memory in public.</i>
 </p>
 
 <p align="center">
@@ -16,20 +15,20 @@
 
 ### 🧠 What I'm focused on
 
-I'm an **R&D / AI Engineer** at EMA Global Engineering, core developer of **Dedalo** — an on-premise, privacy-first platform where autonomous agents run on a company's own hardware (RAG over technical docs, multi-agent workflows, fully local inference — zero cloud).
+I'm an **R&D / AI Engineer** at EMA Global Engineering and the core developer of **Dedalo**, an on-premise, privacy-first platform where autonomous agents run on a company's own hardware. It does RAG over technical documents, multi-agent workflows, and fully local inference with zero cloud dependency.
 
 Alongside that, I'm going deep on one of the most interesting open problems in AI: **how agents remember**. I'm building an open series of agent-memory projects from first principles and sharing the journey publicly.
 
-> A raw LLM is stateless: it forgets everything between calls. **Memory is the layer that fixes that — and it's largely unsolved.**
+> A raw LLM is stateless. It forgets everything between calls. **Memory is the layer that fixes that, and it's largely unsolved.**
 
 ---
 
 ### 🚀 Featured project
 
-**[`synapse-engram`](https://github.com/PouryaTarimoradi/synapse-engram)** — the simplest possible agent memory: a tiny, dependency-free key-value "engram" store with persistence. The first rung of the **Synapse memory stack**:
+**[`synapse-engram`](https://github.com/PouryaTarimoradi/synapse-engram)** is the simplest possible agent memory: a tiny, dependency-free key-value "engram" store with persistence. It's the first rung of the **Synapse memory stack**:
 
 `engram` → `recall` → `consolidate` → `persona` → `probe`
-*(store → retrieve by meaning → long-term → user model → evaluation)*
+*(store, then retrieve by meaning, then long-term, then user model, then evaluation)*
 
 ---
 
@@ -51,10 +50,10 @@ Alongside that, I'm going deep on one of the most interesting open problems in A
 
 ### 💼 Experience
 
-- **R&D / AI Engineer** — EMA Global Engineering, Turin *(Aug 2025 – Present)* · core dev of Dedalo (on-prem LLM/RAG/multi-agent)
-- **Test & Validation Engineer (Automotive)** — EMA Global Engineering / Sabelt, Turin *(2023 – 2025)*
-- **M.Sc. Electrical Engineering** — Politecnico di Milano
+- **R&D / AI Engineer**, EMA Global Engineering, Turin *(Aug 2025 to Present)*. Core dev of Dedalo (on-prem LLM, RAG, multi-agent).
+- **Test & Validation Engineer (Automotive)**, EMA Global Engineering / Sabelt, Turin *(2023 to 2025)*.
+- **M.Sc. Electrical Engineering**, Politecnico di Milano.
 
 ---
 
-<p align="center"><i>Building in public. Follow the memory journey → <a href="https://x.com/SynapseMem">@SynapseMem</a> 🧠</i></p>
+<p align="center"><i>Building in public. Follow the memory journey at <a href="https://x.com/SynapseMem">@SynapseMem</a> 🧠</i></p>
