@@ -1,8 +1,9 @@
+
 <h1 align="center">Hi, I'm Pourya Tarimoradi 👋</h1>
 
 <p align="center">
-  <b>Engineer by training · building in the world of AI agent memory</b><br/>
-  <i>From validating systems to creating them.</i>
+  <b>R&D / AI Engineer · On-premise LLM, RAG & Multi-Agent Systems</b><br/>
+  <i>Building privacy-first AI by day — going deep on agent memory in public.</i>
 </p>
 
 <p align="center">
@@ -15,9 +16,9 @@
 
 ### 🧠 What I'm focused on
 
-I'm an Electrical Engineering M.Sc. (Politecnico di Milano) working as a **Test & Validation Engineer**, now going deep on one of the most interesting open problems in AI: **how agents remember**.
+I'm an **R&D / AI Engineer** at EMA Global Engineering, core developer of **Dedalo** — an on-premise, privacy-first platform where autonomous agents run on a company's own hardware (RAG over technical docs, multi-agent workflows, fully local inference — zero cloud).
 
-I'm building an open series of agent-memory projects from first principles — store & recall, retrieval, long-term memory, user modeling — and sharing the journey publicly.
+Alongside that, I'm going deep on one of the most interesting open problems in AI: **how agents remember**. I'm building an open series of agent-memory projects from first principles and sharing the journey publicly.
 
 > A raw LLM is stateless: it forgets everything between calls. **Memory is the layer that fixes that — and it's largely unsolved.**
 
@@ -40,15 +41,18 @@ I'm building an open series of agent-memory projects from first principles — s
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
 </p>
 
-**Interests:** AI agent memory · retrieval & embeddings · automation · computer vision
+**Areas:** LLMs · RAG · multi-agent systems · agent memory · embeddings & vector search · on-premise / local inference
 
 ---
 
 ### 💼 Experience
 
-- **Test & Validation Engineer** — EMA Global Engineering, Turin *(2023 – Present)*
+- **R&D / AI Engineer** — EMA Global Engineering, Turin *(Aug 2025 – Present)* · core dev of Dedalo (on-prem LLM/RAG/multi-agent)
+- **Test & Validation Engineer (Automotive)** — EMA Global Engineering / Sabelt, Turin *(2023 – 2025)*
 - **M.Sc. Electrical Engineering** — Politecnico di Milano
 
 ---
