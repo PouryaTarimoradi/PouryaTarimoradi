@@ -23,12 +23,14 @@ Alongside that, I'm going deep on one of the most interesting open problems in A
 
 ---
 
-### 🚀 Featured project
+### 🚀 Building: the Synapse memory stack
 
-**[`synapse-engram`](https://github.com/PouryaTarimoradi/synapse-engram)** is the simplest possible agent memory: a tiny, dependency-free key-value "engram" store with persistence. It's the first rung of the **Synapse memory stack**:
+An open, build-in-public series exploring how AI agents remember, from first principles:
 
 `engram` → `recall` → `consolidate` → `persona` → `probe`
 *(store, then retrieve by meaning, then long-term, then user model, then evaluation)*
+
+Each project is a focused, self-contained piece of the memory problem. New repos drop as the series grows.
 
 ---
 
@@ -50,10 +52,10 @@ Alongside that, I'm going deep on one of the most interesting open problems in A
 
 ### 💼 Experience
 
-- **R&D / AI Engineer**, EMA Global Engineering, Turin *(Aug 2025 to Present)*. Core dev of Dedalo (on-prem LLM, RAG, multi-agent).
+- **R&D / AI Engineer**, EMA Global Engineering, Turin *(Aug 2025 to Present)*. Core dev of Dedalo (on-prem LLM, RAG, mu
 - **Test & Validation Engineer (Automotive)**, EMA Global Engineering / Sabelt, Turin *(2023 to 2025)*.
 - **M.Sc. Electrical Engineering**, Politecnico di Milano.
 
 ---
 
-<p align="center"><i>Building in public. Follow the memory journey at <a href="https://x.com/SynapseMem">@SynapseMem</a> 🧠</i></p>
+<p align="center"><i>Building in public. Follow the memory journey at <a href="https://x.com/SynapseMem">@SynapseMem</a>
